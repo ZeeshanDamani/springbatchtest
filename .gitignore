@@ -1,0 +1,21 @@
+.classpath
+.externalToolBuilders
+.project
+.settings
+target
+*.iml
+.idea/
+catalina.home_IS_UNDEFINED
+.*.swp
+.DS_Store
+common/native-libs/
+
+# Emacs/VIM
+\#*\#
+*~
+
+# GNU Global
+GPATH
+GRTAGS
+GSYMS
+GTAGS
